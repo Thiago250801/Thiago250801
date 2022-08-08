@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thiago250801
-- 👀 I’m interested in back end 
-- 🌱 I’m currently learning python programming
+- 👀 I’m interested in front end
+- 🌱 I’m currently learning python programming and angular framework
 - 📫 How to reach me thlimabsgim@gmail.com
 
 <!---
