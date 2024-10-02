@@ -4,8 +4,10 @@
 - 📫 How to reach me thlimabsgim@gmail.com
 
 
-### Here a sample of a simple Angular aplication (static app) that i build rencently
+### Here a some samples of a simple Angular aplication that a built
 ### - https://movie-app-fe3y.onrender.com
+
+### - https://todo-app-gamma-teal.vercel.app
 
 More details you can find in this repository : https://github.com/Thiago250801/movieApp
 <!---
