@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thiago250801
 - 👀 I’m interested in front end
-- 🌱 I’m currently learning angular framework and spring boot
+- 🌱 I’m currently learning angular framework and react/react native
 - 📫 How to reach me thlimabsgim@gmail.com
 
 
