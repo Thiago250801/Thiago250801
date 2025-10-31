@@ -4,13 +4,15 @@
 - 📫 How to reach me thlimabsgim@gmail.com
 
 
-### Here a some samples of a simple Angular aplication that a built
+### Here a some samples of aplication that a built
+### - https://cine-finder-on2c-4x1561tou-thiago250801s-projects.vercel.app/movies
 ### - https://movie-app-fe3y.onrender.com
 
 ### - https://todo-app-gamma-teal.vercel.app
 
 More details you can find in these repositories : 
 - https://github.com/Thiago250801/movieApp
+- 
 - https://github.com/Thiago250801/todoApp
 <!---
 Thiago250801/Thiago250801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
