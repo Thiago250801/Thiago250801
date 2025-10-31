@@ -12,7 +12,7 @@
 
 More details you can find in these repositories : 
 - https://github.com/Thiago250801/movieApp
-- 
+- https://github.com/Thiago250801/cine-finder.git
 - https://github.com/Thiago250801/todoApp
 <!---
 Thiago250801/Thiago250801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
