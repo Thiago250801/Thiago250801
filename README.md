@@ -5,7 +5,6 @@
 
 
 ### Here a some samples of aplication that a built
-### - https://cine-finder-on2c-4x1561tou-thiago250801s-projects.vercel.app/movies
 ### - https://movie-app-fe3y.onrender.com
 
 ### - https://cine-finder-on2c.vercel.app
